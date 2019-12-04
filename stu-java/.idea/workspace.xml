@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c62ee2c9-fb1d-497c-9fff-6f0d53e64cff" name="Default Changelist" comment="" />
+    <list default="true" id="c62ee2c9-fb1d-497c-9fff-6f0d53e64cff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/P04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/P05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/P06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/P07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/day05.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04/src/P03.java" beforeDir="false" afterPath="$PROJECT_DIR$/day04/src/P03.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +25,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1UHXzj2H3prN02DYbszptjnPpas" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8.0_232" />
@@ -28,8 +43,8 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -44,16 +59,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P02">
-    <configuration name="P01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P01" />
+  <component name="RunManager" selected="Application.P07">
+    <configuration name="P03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P03" />
       <module name="day04" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P02" />
+    <configuration name="P04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P04" />
+      <module name="day04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P05" />
       <module name="day04" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,32 +83,25 @@
     </configuration>
     <configuration name="P06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P06" />
-      <module name="day02" />
+      <module name="day04" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="P07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P07" />
-      <module name="day02" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P10" />
-      <module name="day02" />
+      <module name="day04" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P02" />
-        <item itemvalue="Application.P01" />
-        <item itemvalue="Application.P10" />
-        <item itemvalue="Application.P06" />
         <item itemvalue="Application.P07" />
+        <item itemvalue="Application.P06" />
+        <item itemvalue="Application.P05" />
+        <item itemvalue="Application.P04" />
+        <item itemvalue="Application.P03" />
       </list>
     </recent_temporary>
   </component>
@@ -106,11 +121,26 @@
       <workItem from="1575248129842" duration="8536000" />
       <workItem from="1575283263721" duration="644000" />
       <workItem from="1575352493898" duration="9033000" />
-      <workItem from="1575444103838" duration="1996000" />
+      <workItem from="1575444103838" duration="2409000" />
+      <workItem from="1575446790158" duration="4266000" />
+      <workItem from="1575472397811" duration="1715000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
