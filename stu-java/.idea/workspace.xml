@@ -2,15 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c62ee2c9-fb1d-497c-9fff-6f0d53e64cff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/src/P04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/src/P05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/src/P06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/src/P07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/day05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/T01/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/T01/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/T01/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/T01/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/T01/lesson/LaoLi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/T01/lesson/LaoZhou.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/T01/lesson/Lesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/T01/lesson/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/T01/oa/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/T01/oa/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/T01/oa/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/T02/Inter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/T02/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/T02/OuterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/doudizhu/Doudizhu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/doudizhu/SS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/com/zfs/Array/P01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/com/zfs/Array/P02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/com/zfs/Array/P03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/com/zfs/Array/P04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/com/zfs/Array/P05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/com/zfs/Array/P06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/com/zfs/Array/P07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/com/zfs/Array/P08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/com/zfs/Array/P09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/com/zfs/loopAndArray/P01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/com/zfs/loopAndArray/P02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/com/zfs/loopAndArray/P03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/com/zfs/jewelrySale/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/com/zfs/jewelrySale/EmployeeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/com/zfs/jewelrySale/HourlyWorkerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/com/zfs/jewelrySale/IEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/com/zfs/jewelrySale/JewelerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/com/zfs/jewelrySale/SalesImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/com/zfs/jewelrySale/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day04/src/P03.java" beforeDir="false" afterPath="$PROJECT_DIR$/day04/src/P03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04/src/P01.java" beforeDir="false" afterPath="$PROJECT_DIR$/day04/src/com/zfs/oop/P01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04/src/P02.java" beforeDir="false" afterPath="$PROJECT_DIR$/day04/src/com/zfs/oop/P02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04/src/P03.java" beforeDir="false" afterPath="$PROJECT_DIR$/day04/src/com/zfs/oop/P03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04/src/P04.java" beforeDir="false" afterPath="$PROJECT_DIR$/day04/src/com/zfs/oop/P04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04/src/P05.java" beforeDir="false" afterPath="$PROJECT_DIR$/day04/src/com/zfs/oop/P05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04/src/P06.java" beforeDir="false" afterPath="$PROJECT_DIR$/day04/src/com/zfs/oop/P06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04/src/P07.java" beforeDir="false" afterPath="$PROJECT_DIR$/day04/src/com/zfs/oop/P07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day04/P01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day04/P02.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +63,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -29,7 +72,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1UHXzj2H3prN02DYbszptjnPpas" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -45,7 +90,13 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day05/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -59,49 +110,79 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P07">
+  <component name="RunManager" selected="Application.Doudizhu">
+    <configuration name="Doudizhu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doudizhu.Doudizhu" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="doudizhu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zfs.loopAndArray.P01" />
+      <module name="day04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zfs.loopAndArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zfs.loopAndArray.P02" />
+      <module name="day04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zfs.loopAndArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P03" />
+      <option name="MAIN_CLASS_NAME" value="com.zfs.loopAndArray.P03" />
       <module name="day04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zfs.loopAndArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P04" />
+    <configuration name="P09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zfs.Array.P09" />
       <module name="day04" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P05" />
-      <module name="day04" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P06" />
-      <module name="day04" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P07" />
-      <module name="day04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zfs.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P07" />
-        <item itemvalue="Application.P06" />
-        <item itemvalue="Application.P05" />
-        <item itemvalue="Application.P04" />
+        <item itemvalue="Application.Doudizhu" />
         <item itemvalue="Application.P03" />
+        <item itemvalue="Application.P02" />
+        <item itemvalue="Application.P01" />
+        <item itemvalue="Application.P09" />
       </list>
     </recent_temporary>
   </component>
@@ -123,8 +204,29 @@
       <workItem from="1575352493898" duration="9033000" />
       <workItem from="1575444103838" duration="2409000" />
       <workItem from="1575446790158" duration="4266000" />
-      <workItem from="1575472397811" duration="1715000" />
+      <workItem from="1575472397811" duration="4781000" />
+      <workItem from="1575477375987" duration="1453000" />
+      <workItem from="1575509603334" duration="18931000" />
+      <workItem from="1575595036033" duration="6904000" />
+      <workItem from="1575643915587" duration="4382000" />
+      <workItem from="1575684620832" duration="9577000" />
+      <workItem from="1575860337992" duration="2275000" />
     </task>
+    <task id="LOCAL-00001" summary="20191204">
+      <created>1575474323440</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575474323440</updated>
+    </task>
+    <task id="LOCAL-00002" summary="20191204 周三的题">
+      <created>1575535607570</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575535607570</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,5 +244,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20191204" />
+    <MESSAGE value="20191204 周三的题" />
+    <option name="LAST_COMMIT_MESSAGE" value="20191204 周三的题" />
   </component>
 </project>

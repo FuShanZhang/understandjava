@@ -1,4 +1,4 @@
-/*从键盘输入一个班5个学生的分数，求和并输出
+package com.zfs.oop;/*从键盘输入一个班5个学生的分数，求和并输出
  */
 
 import java.util.Arrays;

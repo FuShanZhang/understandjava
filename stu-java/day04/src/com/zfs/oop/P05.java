@@ -1,3 +1,5 @@
+package com.zfs.oop;
+
 import java.util.Scanner;
 
 /*请输入一个任意年份,判断是否是闰年

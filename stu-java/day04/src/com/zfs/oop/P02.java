@@ -1,3 +1,5 @@
+package com.zfs.oop;
+
 import java.util.Scanner;
 
 /*从键盘输入某个十进制整数数，转换成对应的二进制整数并输出。

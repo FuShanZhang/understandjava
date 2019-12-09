@@ -1,3 +1,5 @@
+package com.zfs.oop;
+
 import java.util.Scanner;
 
 /*找出能被5或6整除，但不能被两者同时整除的数*/
