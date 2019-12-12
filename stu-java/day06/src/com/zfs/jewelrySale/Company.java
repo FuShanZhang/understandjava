@@ -60,4 +60,5 @@ public class Company {
 
         return allSalary;
     }
+
 }

@@ -1,5 +1,9 @@
 package com.zfs.jewelrySale;
 
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
+
 public class Test {
     public static void main(String[] args) {
         Company company = new Company();
@@ -27,8 +31,6 @@ public class Test {
         System.out.println(company.toString());
 
         System.out.println("工资和:" + company.getAllSalary());
-
-
 
     }
 }
