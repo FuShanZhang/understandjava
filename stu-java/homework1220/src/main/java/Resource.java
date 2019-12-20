@@ -20,8 +20,6 @@ public class Resource {
             System.out.println(Thread.currentThread().getName() + "加1  当前i有" + i);
             notifyAll();
             wait();
-        } else {
-            wait();
         }
         if(i>0){
             m=false;
@@ -44,8 +42,6 @@ public class Resource {
             notifyAll();
             wait();
             //lock2.lock();
-        } else {
-            wait();
         }
         if(i<0){
             k=false;
